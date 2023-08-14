@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="eunjin990201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
+    <a href="http://qr.kakao.com/talk/OqrfDUax0A6mJrn7W3A8hSloMBc-" target="_blank"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
   <a href="https://www.instagram.com/eun._.jinee_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 
 ---
