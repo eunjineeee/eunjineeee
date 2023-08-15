@@ -26,13 +26,11 @@
   <a href="eunjin990201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
     <a href="http://qr.kakao.com/talk/OqrfDUax0A6mJrn7W3A8hSloMBc-" target="_blank"><img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
   <a href="https://www.instagram.com/eun._.jinee_/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-
----
-
-<div align=center>
-  
 </div>
 
+---
+<div align=center>
+  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunjineeee&layout=compact"><br><br>
